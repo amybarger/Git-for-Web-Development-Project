@@ -3,11 +3,17 @@
 	Semantic HTML is how we tell the computer to create the building blocks of a website and lay out basic containers, text, imagery, etc.
 
     2. What is HTML used for? 
-	It's used to get a website 
+	It's used to get the basics of a website started. Header, footer, paragraph, images, etc.
 
-    3. What is an attribute and where do we put it? 
+    3. What is an attribute and where do we put it?
+    An attribute is how web browsers interpret how elements appear on a page.
+
     4. What is the h1 tag used for? How many times should I use it on a page?
+    The h1 tag is used as the main header on a website. It should only be used once at the top of the page.
+
     5. Name two tags that have required attributes
+    Header and paragraph
+
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
     8. What elements can I add an id to? 
@@ -17,6 +23,8 @@
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
     14. What is the alt attribute used for? 
+    An alt attribute is a way for the CSS code to apply a style to a specific code in HTML.
+
     15. How do I reference an id?
     16. What is the difference between a section and a div
     17. What is CSS used for? 
