@@ -1,4 +1,6 @@
 
+    Link to codepen assignment: https://codepen.io/amybarger2008/pen/KKwVVod?editors=1100
+
     1. What is Semantic HTML? 
 	Semantic HTML is how we tell the computer to create the building blocks of a website and lay out basic containers, text, imagery, etc.
 
